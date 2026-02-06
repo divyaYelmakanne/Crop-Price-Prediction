@@ -111,9 +111,10 @@ Start the server
 ```
 
 
-## Contributors
-
-1. Onkar Waghmode
-2. Shripad Wattamwar
-3. Atharva Wagh
-4. Aditya Zite
+```
+cd Desktop
+cd Crop-Price-Prediction-Using-Random-Forest-main
+cd src
+pip install flask numpy pandas scikit-learn joblib
+python app.py
+```
